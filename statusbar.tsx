@@ -1,0 +1,4 @@
+<StatusBar
+  backgroundColor="transparent"
+  translucent
+/>
